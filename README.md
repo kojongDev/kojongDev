@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=kojongDev&show_icons=true&count_private=true&bg_color=30,1F1C2C,928DAB&title_color=ffeffa&text_color=fff">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=kojongDev&show_icons=true&count_private=true&bg_color=30,232526,414345&title_color=ffeffa&text_color=fff">
 </div>
 
 <br/><br/><br/>
