@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KojongDev&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=🇰🇷KojongDev🇰🇷&fontSize=70&animation=twinkling)
 <br/><br/>
 
-<p>🇰🇷</p>
 <div>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=kojongDev&show_icons=true&count_private=true&bg_color=30,232526,414345&title_color=ffeffa&text_color=fff">
 </div>
