@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KojongDev&fontSize=70&animation=twinkling)
 
-<img align="center" alt='kojongDev's Github" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kojongDev" />
+
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=kojongDev&show_icons=false&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeffa&text_color=fff">
 
 
