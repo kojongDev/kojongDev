@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=🇰🇷KojongDev🇰🇷&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=💻kojongDev&fontSize=70&animation=twinkling)
 <br/><br/>
 
 <div>
@@ -17,9 +17,4 @@
   <img src="https://img.shields.io/badge/html-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bluetooth-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Djaong-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GCP-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 </p>
