@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=💻kojongDev&fontSize=70&animation=twinkling)
 <br/><br/>
 
-<div>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=kojongDev&show_icons=true&count_private=true&bg_color=30,232526,414345&title_color=ffeffa&text_color=fff">
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api?username=kojongDev&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
+</a>
+
 <br/><br/>
 <h3>🛠 Tech Stack 🛠</h3>
 <p >
